@@ -20,8 +20,8 @@
 - 개발 환경 : SpringToolSuite4,
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>,
   Maven,
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>,
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>,
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 - 기술 스택 : SpringBoot, bootstrap, JSP, CSS, JavaScript, Mysql, Maven, Mybatis, React, Redux
 - 수행 도구 : 데이터베이스 : Mysql Workbench / 프론트엔드 : Visual Studio code / 백엔드 Sts4 / Cicd 도구 : Jenkins, Github / 팀원 공유 : Trello
 
