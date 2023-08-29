@@ -33,7 +33,7 @@
 ### 나(최은택)의 역할
 - 메인페이지의 좌측 메뉴바 개발 <div> ![메뉴바](https://github.com/euntaek419/handemoa_ver2/assets/100109284/b5ee5c58-eb0d-44eb-92da-999157795024) </div>
 - 로그인 페이지 개발 <div>  ![로그인](https://github.com/euntaek419/handemoa_ver2/assets/100109284/34ef8900-d1ba-4104-8332-e75be382f345) </div>
-- 회원가입 페이지 개발 <div> ![회원가입](https://github.com/euntaek419/handemoa_ver2/assets/100109284/2f97d42e-edda-4be2-b14d-ee2a40d5f21c) </div>
+- 회원가입 페이지 개발 <div> ![회원가입](https://github.com/euntaek419/handemoa_ver2/assets/100109284/03cf40e3-345c-4313-956b-420aac5be253)
 - 로그인 / 회원가입 / 회원정보 수정 / 관리자 로그인 / 아이디, 비밀번호 찾기
 
 ###### (다른 팀원의 상세 내역은 [자세히 보기](https://github.com/euntaek419/handemoa_ver2/files/12443687/handemoa.pdf))
