@@ -31,8 +31,7 @@
 - 조세윤 / 이예은 / 최은택 / 이윤석 / 김정년
   
 ### 나(최은택)의 역할
-<img src="https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png  width="200" height="400"/>
-- 메인페이지의 좌측 메뉴바 개발 <img src="https://github.com/euntaek419/handemoa_ver2/assets/100109284/b5ee5c58-eb0d-44eb-92da-999157795024"  width="600" height="400"/>
+- 메인페이지의 좌측 메뉴바 개발 <img src="https://github.com/euntaek419/handemoa_ver2/assets/100109284/b5ee5c58-eb0d-44eb-92da-999157795024"  width="800" height="400"/>
 - 로그인 페이지 개발 ![01 로그인](https://github.com/euntaek419/handemoa_ver2/assets/100109284/34ef8900-d1ba-4104-8332-e75be382f345)
 - 회원가입 페이지 개발 ![2023-08-29 23-54-52](https://github.com/euntaek419/handemoa_ver2/assets/100109284/2f97d42e-edda-4be2-b14d-ee2a40d5f21c)
 - 로그인 / 회원가입 / 회원정보 수정 / 관리자 로그인 / 아이디, 비밀번호 찾기
