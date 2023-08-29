@@ -52,7 +52,7 @@
 - 관리자 로그인 <div> <br/> ![04 관리자로그인](https://github.com/euntaek419/handemoa_ver2/assets/100109284/0267c8e0-b54a-479e-a228-b631844e9dd6)
 ![05 관리자로그인](https://github.com/euntaek419/handemoa_ver2/assets/100109284/210002b5-42c0-4056-bdd3-68129e4851e5) </div>
 
-###### (다른 팀원의 상세 내역은 [자세히 보기](https://github.com/euntaek419/handemoa_ver2/files/12443687/handemoa.pdf))
+###### (다른 팀원의 상세 내역 [자세히 보기](https://github.com/euntaek419/handemoa_ver2/files/12443687/handemoa.pdf))
 
 
 
