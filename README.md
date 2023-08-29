@@ -17,7 +17,11 @@
 - 팀원간의 협업을 통하여 협업의 이해와 중요성을 알고, 소통하는 방법을 깨달을 수 있다.
 
 ### 개발환경
-- 개발 환경 : Eclipse, SpringToolSuite, Apache Tomcat, Maven, Mysql, Git
+- 개발 환경 : SpringToolSuite4,
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>,
+  Maven,
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>,
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 - 기술 스택 : SpringBoot, bootstrap, JSP, CSS, JavaScript, Mysql, Maven, Mybatis, React, Redux
 - 수행 도구 : 데이터베이스 : Mysql Workbench / 프론트엔드 : Visual Studio code / 백엔드 Sts4 / Cicd 도구 : Jenkins, Github / 팀원 공유 : Trello
 
