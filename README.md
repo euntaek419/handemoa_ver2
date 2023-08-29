@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   
-  Trello / JSP, Mybatis
+  And Trello
 </div>
 
 ### 기대효과
