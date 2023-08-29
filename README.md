@@ -32,7 +32,7 @@
   
 ### 나(최은택)의 역할
 - 로그인 / 회원가입 / 회원정보 수정 / 관리자 로그인 / 아이디, 비밀번호 찾기
-[메인페이지](https://github.com/euntaek419/handemoa_ver2/assets/100109284/b5ee5c58-eb0d-44eb-92da-999157795024)
+메인페이지의 좌측 메뉴바 ![메인페이지](https://github.com/euntaek419/handemoa_ver2/assets/100109284/b5ee5c58-eb0d-44eb-92da-999157795024)
 
 
 ###### (다른 팀원의 상세 내역은 [자세히 보기](https://github.com/euntaek419/handemoa_ver2/files/12443687/handemoa.pdf))
