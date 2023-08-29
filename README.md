@@ -17,6 +17,7 @@
 - 팀원간의 협업을 통하여 협업의 이해와 중요성을 알고, 소통하는 방법을 깨달을 수 있다.
 
 ### 개발환경 & 기술 스택
+<div>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>,
   Maven,
@@ -25,6 +26,7 @@
 - 기술 스택 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 , bootstrap, JSP, CSS, JavaScript, Mysql, Maven, Mybatis, React, Redux
 - 수행 도구 : 데이터베이스 : Mysql Workbench / 프론트엔드 : Visual Studio code / 백엔드 Sts4 / Cicd 도구 : Jenkins, Github / 팀원 공유 : Trello
+</div>
 
 ### 기대효과
 - 사용자 친화적인 웹페이지 제공을 통해 효율적인 학습을 유도할 수 있으며, 랭킹을 활용하여 필요한 자료들을 쉽게 접근할 수 있다.
