@@ -16,9 +16,8 @@
 - 학습 홈페이지의 개인적 공간 분리를 통해 프라이버시를 지키고, 홈페이지 이용에 필요한 주요 기능들을 제공함에 따라 사용자 관점에 한층 다가설 수 있다.
 - 팀원간의 협업을 통하여 협업의 이해와 중요성을 알고, 소통하는 방법을 깨달을 수 있다.
 
-### 개발환경
-- 개발 환경
-  
+### 개발환경 & 기술 스택
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>,
   Maven,
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>,
