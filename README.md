@@ -34,7 +34,8 @@
 - 좌측 메뉴바 <div> <br/> ![메뉴바](https://github.com/euntaek419/handemoa_ver2/assets/100109284/b5ee5c58-eb0d-44eb-92da-999157795024) </div>
 - 로그인 & 로그아웃 <div> <br/> ![로그인](https://github.com/euntaek419/handemoa_ver2/assets/100109284/34ef8900-d1ba-4104-8332-e75be382f345) </div>
 - 회원가입 & 유효성 검사 <div> <br/> ![회원가입](https://github.com/euntaek419/handemoa_ver2/assets/100109284/03cf40e3-345c-4313-956b-420aac5be253) </div>
-- 회원정보수정 & 유효성 검사 <div> <br/> ![02 회원정보수정](https://github.com/euntaek419/handemoa_ver2/assets/100109284/d76218b5-f507-428b-a525-a1720616804f) </div>
+- 회원정보수정 & 탈퇴 유효성 검사 <div> <br/> ![02 회원정보수정](https://github.com/euntaek419/handemoa_ver2/assets/100109284/d76218b5-f507-428b-a525-a1720616804f)
+![03 회원탈퇴](https://github.com/euntaek419/handemoa_ver2/assets/100109284/f680935c-7a2b-4f15-a67b-de7c4e51995e) </div>
 - 관리자 로그인 <div> <br/> </div>
 - 아이디 & 비밀번호 찾기 <div> <br/> </div>
 
